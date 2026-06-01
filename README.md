@@ -35,4 +35,4 @@ Finance roots — PG Diploma in Global Financial Markets (BSE Institute), intern
 
 ### Contact
 
-[LinkedIn](https://www.linkedin.com/in/surajbhonkar) · bhonkarsuraj99@gmail.com
+[LinkedIn](https://www.linkedin.com/in/suraj-bhonkar-8a4369188/) · bhonkarsuraj99@gmail.com
