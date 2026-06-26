@@ -193,30 +193,35 @@ Problems I'm drawn to:
 
 ---
 
-📖 Background
-
+## 📖 Background
+ 
 <table>
 <tr>
 <td width="50%" valign="top">
-🎓 Education
-
-🏛️IIT Hyderabad · AI & Emerging Technologies · PG Diploma · 2024–25🎓Vanderbilt University · Prompt Engineering Specialisation📈BSE Institute · PG Diploma in Global Financial Markets
-
+**🎓 Education**
+ 
+| | |
+|:---:|:---|
+| 🏛️ | **IIT Hyderabad** · AI & Emerging Technologies · PG Diploma · `2024–25` |
+| 🎓 | **Vanderbilt University** · Prompt Engineering Specialisation |
+| 📈 | **BSE Institute** · PG Diploma in Global Financial Markets |
+ 
 </td>
 <td width="50%" valign="top">
-💼 Experience
-
-🤖LLM Evaluator @ Outlier.ai · Documented hallucination patterns across model iterations🏦Intern @ Indian Clearing Corporation · Collateral optimisation · SEBI compliance
-
+**💼 Experience**
+ 
+| | |
+|:---:|:---|
+| 🤖 | **LLM Evaluator** @ Outlier.ai · Documented hallucination patterns across model iterations |
+| 🏦 | **Intern** @ Indian Clearing Corporation · Collateral optimisation · SEBI compliance |
+ 
 </td>
 </tr>
 </table>
-
-💡 The thread: BSE derivatives desk → SEBI compliance → LLM failure analysis → production multi-agent systems.
-Finance taught me that wrong outputs have real costs. That's why every system I build has explicit evaluation built in.
-
+> 💡 **The thread:** BSE derivatives desk → SEBI compliance → LLM failure analysis → production multi-agent systems.
+> Finance taught me that **wrong outputs have real costs**. That's why every system I build has explicit evaluation built in.
+ 
 ---
-
 ## 📈 Contribution Activity
 
 <div align="center">
