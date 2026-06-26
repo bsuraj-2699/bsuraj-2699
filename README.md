@@ -141,7 +141,7 @@ Problems I'm drawn to:
 
 **AI / ML & LLM Providers**
 
-[![My Skills](https://skillicons.dev/icons?i=py,tensorflow&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,js&theme=dark)](https://skillicons.dev)
 
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-FF6B35?style=for-the-badge&logoColor=white)
@@ -164,7 +164,7 @@ Problems I'm drawn to:
 
 **Frontend & Infra**
 
-[![My Skills](https://skillicons.dev/icons?i=nextjs,vercel,railway,docker&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nextjs,vercel,docker&theme=dark)](https://skillicons.dev)
 
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Reflex](https://img.shields.io/badge/Reflex-5646ED?style=for-the-badge&logoColor=white)
