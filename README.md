@@ -121,18 +121,20 @@ Structured skill-gap analysis with actionable recommendations.
 </td>
 <td width="50%" valign="top">
 
-### What I'm building next
-**Production-grade AI** at the intersection of structured finance data and large language models.
-
-Problems I'm drawn to:
-- Multi-source data fusion under uncertainty
-- LLM deployments where hallucinations are costly
-- Agentic systems with measurable output quality
-
+### 🔭 Building Next — `jobtrack-agent`
+**AI agent for high-volume job applicants**
+ 
+You apply to 20–30 jobs/day and forget them in 48 hours. This fixes that.
+ 
+- 🕷️ Browser agent scrapes the job page you're on — JD, role, skills, salary, company — zero manual input
+- 🧠 Stores in **Qdrant** not Excel — one natural language search finds any application: *"that fintech role in Bangalore with React"*
+- 📋 Also exports a clean tabular view for status tracking
+- 🔔 Follow-up reminders when a role goes cold
+`Browser Agent` `Qdrant` `FastAPI` `LangChain` `Chrome Extension`
+ 
 </td>
 </tr>
 </table>
-
 ---
 
 ## 🛠️ Tech Stack
