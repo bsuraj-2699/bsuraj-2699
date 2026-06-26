@@ -208,7 +208,7 @@ Problems I'm drawn to:
  
 </td>
 <td width="50%" valign="top">
-## 💼 Experience
+💼 Experience
  
 | | |
 |:---:|:---|
