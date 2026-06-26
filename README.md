@@ -193,28 +193,27 @@ Problems I'm drawn to:
 
 ---
 
-## 📖 Background
+📖 Background
 
-```yaml
-education:
-  - "IIT Hyderabad · AI & Emerging Technologies (PG Diploma) · 2024–2025"
-  - "Vanderbilt University · Prompt Engineering Specialisation"
-  - "BSE Institute · PG Diploma in Global Financial Markets"
+<table>
+<tr>
+<td width="50%" valign="top">
+🎓 Education
 
-experience:
-  - role: "LLM Evaluator"
-    company: "Outlier.ai"
-    note: "Documented hallucination patterns across model iterations.
-           That structured failure-analysis thinking is in every system I build."
+🏛️IIT Hyderabad · AI & Emerging Technologies · PG Diploma · 2024–25🎓Vanderbilt University · Prompt Engineering Specialisation📈BSE Institute · PG Diploma in Global Financial Markets
 
-  - role: "Intern"
-    company: "Indian Clearing Corporation"
-    note: "Collateral optimisation · SEBI compliance · Derivatives"
+</td>
+<td width="50%" valign="top">
+💼 Experience
 
-philosophy: >
-  Finance roots + LLM systems engineering = ALPHA.
-  Rule-engine-meets-LLM design that actually works on real market data.
-```
+🤖LLM Evaluator @ Outlier.ai · Documented hallucination patterns across model iterations🏦Intern @ Indian Clearing Corporation · Collateral optimisation · SEBI compliance
+
+</td>
+</tr>
+</table>
+
+💡 The thread: BSE derivatives desk → SEBI compliance → LLM failure analysis → production multi-agent systems.
+Finance taught me that wrong outputs have real costs. That's why every system I build has explicit evaluation built in.
 
 ---
 
