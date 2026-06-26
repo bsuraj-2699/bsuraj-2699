@@ -3,7 +3,7 @@
 
 ```
 ╔══════════════════════════════════════════════════════╗
-║  SURAJ BHONKAR  ·  AI Engineer  ·  Navi Mumbai, IN  ║
+║  SURAJ BHONKAR  ·  AI Engineer  ·  Navi Mumbai, IN   ║
 ║  LLM systems · Multi-agent pipelines · RAG           ║
 ╚══════════════════════════════════════════════════════╝
 ```
@@ -35,7 +35,7 @@
 A 7-node LangGraph pipeline for Indian equity analysis. Real data. Real decisions.
 
 ```
-[ Parse ] → [ Context ] → ┌─ Fundamental ─┐
+[ Parse ] → [ Context ] →  ┌─ Fundamental  ─┐
                            ├─ Technical    ─┤ → [ Bull/Bear Debate ] → [ Judge ] → [ Decision ]
                            ├─ Sentiment    ─┤
                            ├─ Macro        ─┤
