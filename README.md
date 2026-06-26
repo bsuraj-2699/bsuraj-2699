@@ -44,11 +44,11 @@
 A **7-node LangGraph pipeline** for Indian equity analysis. Real data. Real decisions.
 
 ```
-               ┌─── Fundamental Analyst ───┐
-               ├─── Technical  Analyst  ───┤
-[ Parse ] → [ Context ] ─── Sentiment Analyst  ───┤ → [ Bull/Bear Debate ] → [ Judge ] → [ ✅ Decision ]
-               ├─── Macro      Analyst  ───┤
-               └─── Risk       Analyst  ───┘
+                            ┌──[ Fundamental Analyst ]──┐
+                            ├──[ Technical  Analyst  ]──┤
+[ Parse ] ──► [ Context ] ──┼──[ Sentiment  Analyst  ]──┼──► [ Bull/Bear Debate ] ──► [ Judge ] ──► [ ✅ Decision ]
+                            ├──[ Macro      Analyst  ]──┤
+                            └──[ Risk       Analyst  ]──┘
 ```
 
 **Data sources:** `Upstox` `Yahoo Finance` `Screener.in` `NSE` `GDELT`  
