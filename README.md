@@ -121,7 +121,7 @@ Structured skill-gap analysis with actionable recommendations.
 </td>
 <td width="50%" valign="top">
 
-### 🔭 Building Next — `jobtrack-agent`
+###  [`Job-Tracker`](https://github.com/bsuraj-2699/Job-Tracker)
 **AI agent for high-volume job applicants**
  
 You apply to 20–30 jobs/day and forget them in 48 hours. This fixes that.
