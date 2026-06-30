@@ -130,7 +130,8 @@ You apply to 20–30 jobs/day and forget them in 48 hours. This fixes that.
 - 🧠 Stores in **Qdrant** not Excel — one natural language search finds any application: *"that fintech role in Bangalore with React"*
 - 📋 Also exports a clean tabular view for status tracking
 - 🔔 Follow-up reminders when a role goes cold
-`Browser Agent` `Qdrant` `FastAPI` `LangChain` `Chrome Extension`
+
+[![GitHub](https://img.shields.io/badge/GitHub-Repo-24292e?style=flat-square&logo=github)](https://github.com/bsuraj-2699/Job-Tracker)
  
 </td>
 </tr>
