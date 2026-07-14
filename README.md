@@ -29,7 +29,6 @@
 | ⚡ | Metric | Result |
 |:---:|:---|:---|
 | 🕐 | Full equity analysis, ALPHA pipeline end-to-end | **< 40 seconds** |
-| 🎯 | Directional accuracy on Nifty 50 top-10 signals | **~70%** |
 | 🚀 | Faster than manual candidate review (quest-evaluator) | **~112×** |
 | 🤖 | LLM providers integrated across production projects | **5 providers** |
 
