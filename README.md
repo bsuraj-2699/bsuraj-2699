@@ -204,7 +204,7 @@ You apply to 20–30 jobs/day and forget them in 48 hours. This fixes that.
  
 | | |
 |:---:|:---|
-| 🏛️ | **IIT Hyderabad** · AI & Emerging Technologies · PG Diploma · `2024–25` |
+| 🏛️ | **IIT Hyderabad** · AI & Emerging Technologies · `2025–26` |
 | 🎓 | **Vanderbilt University** · Prompt Engineering Specialisation |
 | 📈 | **BSE Institute** · PG Diploma in Global Financial Markets |
  
