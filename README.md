@@ -28,7 +28,7 @@
 
 | ⚡ | Metric | Result |
 |:---:|:---|:---|
-| 🕐 | Full equity analysis, ALPHA pipeline end-to-end | **< 40 seconds** |
+| 🕐 | Full equity analysis, ALPHA pipeline end-to-end | **< 30 seconds** |
 | 🚀 | Faster than manual candidate review (quest-evaluator) | **~112×** |
 | 🤖 | LLM providers integrated across production projects | **5 providers** |
 
