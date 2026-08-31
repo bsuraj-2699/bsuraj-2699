@@ -220,9 +220,7 @@ You apply to 20–30 jobs/day and forget them in 48 hours. This fixes that.
 </td>
 </tr>
 </table>
-> 💡 **The thread:** BSE derivatives desk → SEBI compliance → LLM failure analysis → production multi-agent systems.
-> Finance taught me that **wrong outputs have real costs**. That's why every system I build has explicit evaluation built in.
- 
+
 ---
 ## 📈 Contribution Activity
 
