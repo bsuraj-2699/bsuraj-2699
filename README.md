@@ -180,7 +180,6 @@ You apply to 20–30 jobs/day and forget them in 48 hours. This fixes that.
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=bsuraj-2699&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=63b3ed&icon_color=9f7aea&text_color=94a3b8&ring_color=63b3ed" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bsuraj-2699&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=63b3ed&text_color=94a3b8&langs_count=6" />
 
 <br/>
