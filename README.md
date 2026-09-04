@@ -51,7 +51,7 @@ A **7-node LangGraph pipeline** for Indian equity analysis. Real data. Real deci
 ```
 
 **Data sources:** `Upstox` `Yahoo Finance` `Screener.in` `NSE` `GDELT`  
-**RAG:** Qdrant + BM25 hybrid retrieval · Full analysis in **< 40 seconds**
+**RAG:** Qdrant + BM25 hybrid retrieval · Full analysis in **< 30 seconds**
 
 <div align="center">
 
@@ -187,10 +187,6 @@ You apply to 20–30 jobs/day and forget them in 48 hours. This fixes that.
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=bsuraj-2699&theme=github-dark-blue&hide_border=true&background=0d1117&ring=63b3ed&fire=9f7aea&currStreakLabel=63b3ed&sideLabels=94a3b8&dates=64748b" />
 
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=bsuraj-2699&theme=algolia&no-frame=true&no-bg=true&row=1&column=6" />
-
 </div>
 
 ---
@@ -220,21 +216,3 @@ You apply to 20–30 jobs/day and forget them in 48 hours. This fixes that.
 </td>
 </tr>
 </table>
-
----
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=bsuraj-2699&bg_color=0d1117&color=63b3ed&line=9f7aea&point=4fd1c5&area=true&hide_border=true" width="100%"/>
-
-</div>
-
----
-
-<div align="center">
-
-<!-- Footer Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:9f7aea,100:63b3ed&height=120&section=footer&text=Let%27s%20build%20something%20intelligent&fontSize=16&fontColor=94a3b8&fontAlignY=65" width="100%" />
-
-</div>
